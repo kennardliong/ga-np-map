@@ -1,6 +1,6 @@
 # **Georgia Nurse Practitioner Workforce Mapping & Public Health Analysis**
 
-This repository contains an interactive geospatial and statistical analysis platform for visualizing **nurse practitioner (NP) distribution across Georgia** and examining how NP supply relates to **county-level public health outcomes**. The project was developed through the **Emory School of Nursing & Ai.Data Lab (2025)**.
+This repository contains an interactive geospatial and statistical analysis platform for visualizing **nurse practitioner (NP) distribution across Georgia** and examining how NP supply relates to **county-level public health outcomes**. The project was developed through the **Center of AI Learning, Emory School of Nursing & AI.Data Lab (2025)**.
 
 ---
 
@@ -138,10 +138,10 @@ http://localhost:8501
 Developed as part of the **Ai.Data Lab 2025** initiative in collaboration with:
 - Emory School of Nursing
 - Center for AI Learning
-- Emory Ai.Data Lab
+- Emory AI.Data Lab
 
 ---
 
 ## **📝 License**
-MIT License (or preferred alternative).
+MIT License 
 
