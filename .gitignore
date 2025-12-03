@@ -1,0 +1,23 @@
+# macOS cruft
+.DS_Store
+
+# Python cache / build
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# VS Code / editors
+.vscode/
+
+# Data outputs (keep raw inputs in data/)
+outputs/
