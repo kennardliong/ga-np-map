@@ -2,8 +2,8 @@
 
 This repository contains an interactive geospatial and statistical analysis platform for visualizing **nurse practitioner (NP) distribution across Georgia** and examining how NP supply relates to **county-level public health outcomes**. The project was developed through the **Center of AI Learning, Emory School of Nursing & AI.Data Lab (2025)**.
 
-**Scatterplot Generator**: https://kennardliong-ga-np-map-src02-county-correlations-emu8wd.streamlit.app/ 
-**Choropleth**: https://kennardliong-ga-np-map-srcapp-streamlit-chqn1j.streamlit.app/
+### **Scatterplot Generator**: https://kennardliong-ga-np-map-src02-county-correlations-emu8wd.streamlit.app/ 
+### **Choropleth**: https://kennardliong-ga-np-map-srcapp-streamlit-chqn1j.streamlit.app/
 
 ---
 
